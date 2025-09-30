@@ -1,0 +1,135 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ibge_malhas}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=638eed94c97a4776d2d0e13ee4adbf12}{%
+           family={{Instituto Brasileiro de Geografia e Estatística}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{fullhash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{fullhashraw}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{bibnamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorbibnamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authornamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorfullhash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorfullhashraw}{638eed94c97a4776d2d0e13ee4adbf12}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html}}
+      \field{note}{Acessado em: 09 set. 2025}
+      \field{title}{Malhas Territoriais}
+      \field{year}{2024}
+    \endentry
+    \entry{ibge_paraiba}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=638eed94c97a4776d2d0e13ee4adbf12}{%
+           family={{Instituto Brasileiro de Geografia e Estatística}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{fullhash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{fullhashraw}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{bibnamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorbibnamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authornamehash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorfullhash}{638eed94c97a4776d2d0e13ee4adbf12}
+      \strng{authorfullhashraw}{638eed94c97a4776d2d0e13ee4adbf12}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibge.gov.br/cidades-e-estados/pb.html}}
+      \field{note}{Acessado em: 09 set. 2025}
+      \field{title}{Paraíba | Cidades e Estados}
+      \field{year}{2024}
+    \endentry
+    \entry{datasus_tabnet}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1c81f07bc381d0b027a5c64d410ed53}{%
+           family={{Ministério da Saúde}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{bibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorbibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authornamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://datasus.saude.gov.br/informacoes-de-saude-tabnet}}
+      \field{note}{Acessado em: 09 set. 2025}
+      \field{title}{DATASUS - Informações de Saúde (TABNET)}
+      \field{year}{2024}
+    \endentry
+    \entry{oms_lenacapavir_2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {World Health Organization}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Licence: CC BY-NC-SA 3.0 IGO}
+      \field{title}{Guidelines on lenacapavir for HIV prevention and testing strategies for long-acting injectable preexposure prophylaxis (PrEP)}
+      \field{type}{techreport}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'paulo_araujo.blg'
+[67] biber-MSWIN64:342> INFO - === 
+[89] Biber.pm:421> INFO - Reading 'paulo_araujo.bcf'
+[158] Biber.pm:1002> INFO - Found 4 citekeys in bib section 0
+[167] Biber.pm:4487> INFO - Processing section 0
+[174] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[200] bibtex.pm:1713> INFO - LaTeX decoding ...
+[206] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[240] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[240] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[240] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-PT'
+[240] Biber.pm:4313> INFO - No sort tailoring available for locale 'pt-PT'
+[242] bbl.pm:676> INFO - Writing 'paulo_araujo.bbl' with encoding 'UTF-8'
+[243] bbl.pm:779> INFO - Output to paulo_araujo.bbl
